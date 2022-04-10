@@ -30,6 +30,9 @@ Replacing the ninth-grade scores affected the data:
 
   - The average math score went down from a 79% to 78.9%
   - The average reading score had no percivable change.
-  - The Scores by school spending had no change but changed the $630-$644 passing percentage in all three catagorys 
+  - The Scores by school spending had no change but changed the $630-$644 passing percentage in all three categorys 
  ![Spending Summary](https://user-images.githubusercontent.com/100821974/162640637-8d21ca11-3611-40d6-8fe8-5caf43ac819e.png)
+ 
+ ## Summary
+ So with this data change I can say that it had a minor change in most categorys. You would have to keep changing the code to drill into the more significant changes for the Thomas High school. Looking at these categorys I would recomend placing my children into a charter school. 
 
