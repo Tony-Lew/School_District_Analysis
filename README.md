@@ -10,7 +10,9 @@ In this project we gathered data from the PyCitySchool district containing fifte
 District summary change:
 
   - The percentage of Math decreased from 75% to 74.8%
+![Average Math Scores](https://user-images.githubusercontent.com/100821974/162640839-c9205447-1bb3-44b4-ba95-0bb4eff11947.png)
   - The percentage of Reading decreased from 86% to 85.7
+![Average Reading Scores](https://user-images.githubusercontent.com/100821974/162640856-39662950-c084-4786-8bc9-e36d69a724d0.png)
   - The overall passing decreased from 65% to 64.9%
 ![School Summary](https://user-images.githubusercontent.com/100821974/162640614-8a16a7dd-e3e4-4602-8ec4-b33c8d2e9620.png)
 
@@ -28,6 +30,6 @@ Replacing the ninth-grade scores affected the data:
 
   - The average math score went down from a 79% to 78.9%
   - The average reading score had no percivable change.
-  - The Scores by school spending 
-  - ![Spending Summary](https://user-images.githubusercontent.com/100821974/162640637-8d21ca11-3611-40d6-8fe8-5caf43ac819e.png)
+  - The Scores by school spending had no change
+ ![Spending Summary](https://user-images.githubusercontent.com/100821974/162640637-8d21ca11-3611-40d6-8fe8-5caf43ac819e.png)
 
