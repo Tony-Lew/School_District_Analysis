@@ -12,18 +12,22 @@ District summary change:
   - The percentage of Math decreased from 75% to 74.8%
   - The percentage of Reading decreased from 86% to 85.7
   - The overall passing decreased from 65% to 64.9%
+![School Summary](https://user-images.githubusercontent.com/100821974/162640614-8a16a7dd-e3e4-4602-8ec4-b33c8d2e9620.png)
 
 School summary change:
 
   - Thomas High School's average Math score decreased from 83.42% to 83.35%
   - Thomas High School's average Reading score increased from 83.84% to 83.89%
 
-How does replacing the ninth graders math and readig scores affect Thomas High School's performance relative to the other school's.
+How does replacing the ninth graders math and reading scores affect Thomas High School's performance relative to the other school's.
 
   - Replacing Thomas High School's 9th grade scores had a minimal effect on the school district and no changes for other schools.
+![District Summary Data Frame](https://user-images.githubusercontent.com/100821974/162640596-c35ba088-c7e8-4baf-a961-e693b6c6e1b4.png)
 
 Replacing the ninth-grade scores affected the data:
 
   - The average math score went down from a 79% to 78.9%
   - The average reading score had no percivable change.
-  - 
+  - The Scores by school spending 
+  - ![Spending Summary](https://user-images.githubusercontent.com/100821974/162640637-8d21ca11-3611-40d6-8fe8-5caf43ac819e.png)
+
