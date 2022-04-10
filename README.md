@@ -30,6 +30,6 @@ Replacing the ninth-grade scores affected the data:
 
   - The average math score went down from a 79% to 78.9%
   - The average reading score had no percivable change.
-  - The Scores by school spending had no change
+  - The Scores by school spending had no change but changed the $630-$644 passing percentage in all three catagorys 
  ![Spending Summary](https://user-images.githubusercontent.com/100821974/162640637-8d21ca11-3611-40d6-8fe8-5caf43ac819e.png)
 
